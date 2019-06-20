@@ -5,3 +5,10 @@
 [core]
 	editor = nano
 
+[alias]
+	st = status
+	com = commit
+	di = diff
+	cl = clone
+	br = branch
+	ch = checkout
